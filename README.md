@@ -1,10 +1,6 @@
 
 Data pre-processing for smart contract upgrade project: Based on the existing smart contract dataset, extract the contracts that have been state upgraded, as well as their ASTs, state variable information, and the relationship between functions and variables.
 
-### Dataset
-**(Dataset 1)** https://docs.google.com/spreadsheets/d/1IXEEr12JRlL2l3Xvlmbdsofb6NpeHvXfqgSXU0CDUXA/edit?usp=sharing
-
-**(Dataset 2)** https://drive.google.com/file/d/1-4g60BBcGk_2OS1pimrjBMWaLuQot1Vs/view?usp=sharing
 
 ### Step 1: Slice and dice smart contracts and get their abstract syntax tree (AST).
 ```main.py```
