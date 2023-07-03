@@ -6,7 +6,7 @@ Data pre-processing for smart contract upgrade project: Based on the existing sm
 
 **(Dataset 2)** https://drive.google.com/file/d/1-4g60BBcGk_2OS1pimrjBMWaLuQot1Vs/view?usp=sharing
 
-### Step 1: Slice and dice smart contracts and get their abstract syntax tree.
+### Step 1: Slice and dice smart contracts and get their abstract syntax tree (AST).
 ```main.py```
 
 ### Step 2：Parse the AST JSON file to get the state variables and the relationship between functions and variables.
